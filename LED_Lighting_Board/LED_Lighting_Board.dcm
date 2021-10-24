@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAT4238
+D LED Driver, Boost, 10 LED, series
+F https://www.onsemi.com/pdf/datasheet/cat4238-d.pdf
+$ENDCMP
+#
+#End Doc Library
